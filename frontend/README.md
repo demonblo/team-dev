@@ -1,4 +1,4 @@
-# lab_03
+# warehouse-frontend
 
 ## Project setup
 ```
